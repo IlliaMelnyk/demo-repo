@@ -3,3 +3,4 @@
 //
 
 #include "product.h"
+class product();
